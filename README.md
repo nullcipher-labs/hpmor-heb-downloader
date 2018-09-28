@@ -3,3 +3,4 @@ A python program to download all chapters of hpmor (Harry Potter and the Methods
 Files are currently downloaded as docx and merged into one complete docx file as well.
 
 Hpmor Hebrew translating project: http://rationality.co.il/
+A video explaining how to use the program (in Hebrew): https://drive.google.com/open?id=1XQX8iwYSPSwYQG9HLHl2D6GSvYYzkovX
