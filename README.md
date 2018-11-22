@@ -5,3 +5,5 @@ Files are currently downloaded as docx and merged into one complete docx file as
 Hpmor Hebrew translating project: http://rationality.co.il/
 
 A video explaining how to use the program (in Hebrew): https://drive.google.com/open?id=1XQX8iwYSPSwYQG9HLHl2D6GSvYYzkovX
+
+To download the current version of the program as an exe: https://drive.google.com/file/d/1Z0ON8TQMV_tbsA8EPVT32aRSjyopco-D
